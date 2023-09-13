@@ -1,0 +1,2 @@
+# parancsok-gitbash
+probalgatas celjabol
