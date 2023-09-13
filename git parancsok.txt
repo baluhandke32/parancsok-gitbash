@@ -1,9 +1,9 @@
-git pull
-git push
+git pull - letöltés a repositoryból
+git push - feltöltés a repositoryba
 git create
 git add
 git clone
-git config
+git config - beállítja az email címet, felhasználónevet
 git commit
 git init
 git remote
